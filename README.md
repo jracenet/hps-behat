@@ -1,5 +1,6 @@
 # hps-behat
-[![Build Status](https://travis-ci.org/hiptest/hps-behat.svg?branch=master)](https://travis-ci.org/hiptest/hps-behat)
+[![Build Status](https://travis-ci.org/aurelien-reeves/hps-behat.svg?branch=master)](https://travis-ci.org/aurelien-reeves/hps-behat)
+[![Hiptest Status](https://hiptest.net/badges/test_run/73157)](https://hiptest.net/app/projects/45057/test-runs/73157/overview)
 
 Hiptest publisher samples with Behat
 
