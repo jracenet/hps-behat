@@ -1,8 +1,8 @@
 @sprint-2
 Feature: Can be configured
-    As this is a high quality product
-    It is possible to configure it
-    In order to get the best possible coffees
+  As this is a high quality product
+  It is possible to configure it
+  In order to get the best possible coffees
 
   @priority-high
   Scenario: Default settings
