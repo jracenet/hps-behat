@@ -11,3 +11,5 @@ Feature: Bad usage
     When I take "50" coffees
     Then message "Empty grounds" should be displayed
     And coffee should be served
+    And coffee should be served
+
