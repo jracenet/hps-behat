@@ -9,7 +9,6 @@ Feature: Support internationalisation
     Given the coffee machine is started
     When I shutdown the coffee machine
     Then message "" should be displayed
-    Then message "" should be displayed
 
   @priority-medium
   Scenario Outline: Messages are based on language
