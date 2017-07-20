@@ -10,7 +10,5 @@ Feature: Bad usage
     And I handle everything except the grounds
     When I take "50" coffees
     Then message "Empty grounds" should be displayed
-    And coffee should not be served
-    And coffee should not be served
-  
+    And coffee should not be served  
 
