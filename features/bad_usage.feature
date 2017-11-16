@@ -10,4 +10,4 @@ Feature: Bad usage
     And I handle everything except the grounds
     When I take "100" coffees
     Then message "Empty grounds" should be displayed
-    And coffee should be served  
+    And coffee should be served as soon as I can 
