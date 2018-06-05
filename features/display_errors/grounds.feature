@@ -17,3 +17,6 @@ Feature: Grounds
   Scenario: Message "Empty grounds" is displayed after 30 coffees are taken
     When I take "30" coffees
     Then message "Empty grounds" should be displayed
+    Then message "Empty grounds" should be displayed
+    Then message "Empty grounds" should be displayed
+    Then message "Empty grounds" should be displayed
