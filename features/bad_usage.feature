@@ -12,3 +12,4 @@ Feature: Bad usage
     Then message "Empty grounds" should be displayed
     And coffee should not be served
     And coffee should not be served
+    And coffee should not be served
