@@ -18,5 +18,3 @@ Feature: Grounds
     When I take "30" coffees
     Then message "Empty grounds" should be displayed
     Then message "Empty grounds" should be displayed
-    Then message "Empty grounds" should be displayed
-    Then message "Empty grounds" should be displayed
