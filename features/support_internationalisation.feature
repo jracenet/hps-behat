@@ -21,3 +21,4 @@ Feature: Support internationalisation
       | en | Ready |  |
       | fr | Pret |  |
       | de | fertig |  |
+      | de | fertig |  |
