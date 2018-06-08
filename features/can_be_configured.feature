@@ -20,3 +20,5 @@ Feature: Can be configured
       | water hardness | 2      |
       | grinder        | medium |
       | stuff | things |
+      | stuff | things |
+
