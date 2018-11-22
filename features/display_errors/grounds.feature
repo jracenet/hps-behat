@@ -8,7 +8,7 @@ Feature: Grounds
     Given the coffee machine is started
     And I handle everything except the grounds
 
-  @ORPHAN @priority-medium
+  @ORPHAN @priority-medium @MANUAL
   Scenario: When the grounds are emptied, message is removed
     Given I take "30" coffees
     When I empty the coffee grounds
