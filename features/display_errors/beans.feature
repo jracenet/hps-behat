@@ -8,7 +8,7 @@ Feature: Beans
     Given the coffee machine is started
     And I handle everything except the beans
 
-  @ORPHAN @priority-high @MANUAL
+  @ORPHAN @priority-high
   Scenario: After adding beans, the message "Fill beans" disappears
     Given I take "40" coffees
     When I fill the beans tank
