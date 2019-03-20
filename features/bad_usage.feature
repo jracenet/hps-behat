@@ -1,4 +1,4 @@
-Feature: very Bad usage
+Freature: very Bad usage
 
   As a lazy coffee user
   I can ignore the message displayed by the machine
