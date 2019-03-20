@@ -1,4 +1,1 @@
-Feature:
-
- Scenario: Something
- Scenario: Some other thing
+Feature: empty feature
