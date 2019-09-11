@@ -4,12 +4,3 @@ Feature: Serve coffee
     I can get coffee from the machine
     So I can enjoy the rest of the day
     And do stupid things faster
-
-  @priority-high
-  Scenario: Simple use
-    # Well, sometimes, you just get a coffee.
-    Given the coffee machine is started
-    When I take a coffee
-    Then coffee should be served
-  
-  Scenario: not so simple use
