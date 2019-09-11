@@ -4,3 +4,6 @@ Feature: Serve coffee
     I can get coffee from the machine
     So I can enjoy the rest of the day
     And do stupid things faster
+
+Scenario: Nominal case
+Scenario: Nominal case
