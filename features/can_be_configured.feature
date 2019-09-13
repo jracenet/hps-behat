@@ -24,3 +24,6 @@ Feature: Can be configured
     Then settings should be:
       | water hardness | 2      |
       | grinder        | medium |
+
+
+Scenario: stuff
