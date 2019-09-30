@@ -1,8 +1,10 @@
 [
   { 
     "name": "the coffee machine is started",
+    "description": "I push the On/OFF button",
+    "tags": []
   },
   { 
-   "name": "I press the 1 cup button" 
+   "name": "I press the 1 cup button"
   }
 ]
