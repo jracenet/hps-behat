@@ -1,0 +1,1 @@
+Feature: Alert when ingredients are missing
