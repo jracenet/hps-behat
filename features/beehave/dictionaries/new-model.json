@@ -1,4 +1,4 @@
 [
-  { name: "the milk tank is filled" },
-  { name: "I serve a latte" }
+  { "name": "the milk tank is filled" },
+  { "name": "I serve a latte" }
 ]
