@@ -1,4 +1,5 @@
 Feature: Handle missing ingredients
-  Scenario: handle missing water
-  Scenario: handle missing beans
-  Scenario: handle missing cacaos
+
+Scenario: handle missing beans
+Scenario: handle missing water
+Scenario: changer filter
